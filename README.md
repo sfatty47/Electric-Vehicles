@@ -69,7 +69,6 @@ Electric-Vehicles/
 - Detailed visualizations of EV trends and specifications
 - Insights into market drivers and barriers
 - Predictive models for future adoption and impact
-- (If available) Interactive dashboards for data exploration
 
 ## Contributing
 

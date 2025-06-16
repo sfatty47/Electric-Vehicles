@@ -58,7 +58,7 @@ Electric-Vehicles/
 ├── data/                # Raw and processed datasets
 ├── notebooks/           # Jupyter notebooks for EDA, modeling, and visualization
 ├── src/                 # Source code for analysis and modeling
-├── app.py               # Dashboard or web app (if available)
+├── app.py               # Dashboard or web app
 ├── requirements.txt     # Project dependencies
 ├── README.md            # Project documentation
 └── LICENSE
